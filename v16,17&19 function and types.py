@@ -1,3 +1,9 @@
+'''
+HEYYYY  have learned the github.........fot practice
+'''
+
+
+
 #..................................FUNCTION  (Without Argument)...................................
 
 '''Python Functions is a block of statements that return the specific task. The idea is to put some commonly or repeatedly done tasks together and make a function 
